@@ -1,0 +1,11 @@
+.filters {
+    width: 50%;
+    transform: 50% 50%;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
+    background-color: #f9fafc;
+}
+
+.filterItem {
+    border-top: 1px solid transparent;
+}
